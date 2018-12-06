@@ -1,0 +1,26 @@
+{
+  "name": "edx_ass_1",
+  "version": "1.0.0",
+  "description": "converter for csv files",
+  "main": "convertToJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skucukbay/edx_nodejs.git"
+  },
+  "keywords": [
+    "edx"
+  ],
+  "author": "serkan remzi kucukbay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skucukbay/edx_nodejs/issues"
+  },
+  "homepage": "https://github.com/skucukbay/edx_nodejs#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "csvtojson": "^2.0.8"
+  }
+}
